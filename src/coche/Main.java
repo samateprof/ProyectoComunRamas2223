@@ -14,7 +14,7 @@ public class Main {
         miCoche = new Coche("Opel",12000,500);
         try 
         {
-            System.out.println("Venta de Coches");
+            operacionventa();
             miCoche.vender(300);
         } catch (Exception e)
         {
@@ -23,7 +23,7 @@ public class Main {
         
         try
         {
-            System.out.println("Compra de Coches");
+            operacioncompra();
             miCoche.comprar(500);
         } catch (Exception e)
         {
@@ -31,6 +31,14 @@ public class Main {
         }
         stockActual = miCoche.obtenerStock();
         System.out.println("El stock actual es"+ stockActual );
+    }
+
+    private static void operacioncompra() {
+        System.out.println("Compra de Coches");
+    }
+
+    private static void operacionventa() {
+        System.out.println("Venta de Coches");
     }
 
 }
