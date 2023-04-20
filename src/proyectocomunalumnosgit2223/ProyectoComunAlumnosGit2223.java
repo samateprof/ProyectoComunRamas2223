@@ -17,8 +17,8 @@ public class ProyectoComunAlumnosGit2223 {
      }
     public static void Jeff()
     {
-        System..out.println("El Método de jeff");
+        System.out.println("El Método de jeff");
 }
-        // TODO code application logic here
+    
     }
     
