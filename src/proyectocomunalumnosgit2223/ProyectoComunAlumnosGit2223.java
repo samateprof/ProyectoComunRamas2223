@@ -13,8 +13,11 @@ public class ProyectoComunAlumnosGit2223 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
+     }
+    public static void Jeff()
+    {
+}
         // TODO code application logic here
     }
     
-}
