@@ -17,4 +17,8 @@ public class ProyectoComúnRamas2223 {
         // TODO code application logic here
     }
     
+    public static void AlexJurado() {
+        System.out.println("Metodo de Alex Jurado");
+}
+    
 }
