@@ -16,5 +16,5 @@ public class ProyectoComúnRamas2223 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
 }
