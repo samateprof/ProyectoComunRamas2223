@@ -6,7 +6,7 @@ package proyectocomúnramas2223;
 
 /**
  *
- * @author sonia
+ * @author Alex Jurado
  */
 public class ProyectoComúnRamas2223 {
 
