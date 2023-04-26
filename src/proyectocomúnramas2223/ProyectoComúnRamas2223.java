@@ -16,5 +16,11 @@ public class ProyectoComúnRamas2223 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
+    public class ClaseEduardPavlov {
+
+        public void eduardPavlov() {
+            System.out.println("Método de Eduard Pavlov");
+        }
+    }
 }
