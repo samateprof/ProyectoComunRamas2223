@@ -9,7 +9,7 @@ package proyectocomúnramas2223;
  * @author juanjogimenezmarin
  */
 public class ClaseJuanJoseGimenezMarin {
-    public void tuNombre() {
+    public void Juanjo() {
         System.out.println("Método de Juan José Giménez Marín");
     }
 }
